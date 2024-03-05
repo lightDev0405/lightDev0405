@@ -1,7 +1,7 @@
 <!-- Managing your profile README -->
 <!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
 
-![Welcome!](3Io4KmzAY.gif)
+![Welcome!]
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asakew&theme=github_dark" alt="info">
 
