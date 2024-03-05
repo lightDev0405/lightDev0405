@@ -32,14 +32,6 @@
 
 Looking for an opportunity to enhance my Web-development skills and utilize my extensive experience in Open-Source Projects by contributing my knowledge, skill, and abilities with full devotion.
 
-# 🏆 HacktoberFest 2024 Badges
-[![An image of @arham12336's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arham12336)](https://holopin.io/@arham12336)
-
-## &#x1f4c8; GitHub Stats
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arham-12336&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arham-12336&theme=nord_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arham-12336&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arham-12336&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-12336&theme=nord_dark)
