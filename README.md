@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Crazy Freelancer.</h1>
-<h3 align="center">A passionate Front-end developer and an enthusiast of Javascript</h3>
+<h1 align="center">Hi 👋, I'm Top Freelancer.</h1>
+<h3 align="center">A passionate Full-stack developer and an enthusiast of Javascript and C#</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **LLMs**
