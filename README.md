@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML/CSS,JS,React and langchain**
 
-- 📫 How to reach me **simbadevlop@gmail.com & lightDev0405@gmail.com**
+- 📫 How to reach me **lightDev0405@gmail.com**
 
 - ⚡ Fun fact **Programmer by choice, Sarcastic by birth**
 <h3 align="center">Front-end Developer | JavaScript Enthusiast | xResearcher on Citation Network </h3>
