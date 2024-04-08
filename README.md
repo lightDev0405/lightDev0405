@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on **LLMs**
 
-- 🌱 I’m currently learning **React, and Nextjs**
+- 🌱 I’m currently learning **React, and Nextjs, Python Script, Django, Flask**
 
 - 👯 I’m looking to collaborate on **Large Language Model and Gen AI projects**
 
-- 💬 Ask me about **HTML/CSS,JS,React and langchain**
-
-- 📫 How to reach me **lightDev0405@gmail.com**
+- 💬 Ask me about **HTML/CSS,JS,React/ Python and langchain**
 
 - ⚡ Fun fact **Programmer by choice, Sarcastic by birth**
 <h3 align="center">Front-end Developer | JavaScript Enthusiast | xResearcher on Citation Network </h3>
